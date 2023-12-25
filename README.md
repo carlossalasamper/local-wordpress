@@ -1,12 +1,15 @@
 ## Local WordPress: WordPress + MySQL
 
-This example defines one of the basic setups for WordPress. More details on how this works can be found on the official [WordPress image page](https://hub.docker.com/_/wordpress).
+This example defines one of the basic setups for WordPress with [Docker Compose](https://docs.docker.com/compose/).
 
-Project structure:
+More details on how this works can be found on the official [WordPress image page](https://hub.docker.com/_/wordpress).
+
+## Project structure
 
 ```
-.
+├── /assets
 ├── docker-compose.yaml
+├── LICENSE
 └── README.md
 ```
 
